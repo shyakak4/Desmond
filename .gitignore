@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+HISTORY.md
+AGENTS.md
+CLAUDE.md
+
+# Build/public folders
+public
