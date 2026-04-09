@@ -14,9 +14,10 @@ export default function Footer() {
               <div className="relative w-32 h-32 rounded-full overflow-hidden border border-neutral-100">
                 {/* Fallback to Unsplash if local placeholder doesn't exist to prevent crash */}
                 <Image 
-                  src="/placeholders/Desmond.jpeg" 
+                  src='/v1775584478/Desmond_ucybwu.jpg'
                   alt="Desmond Freeman Portrait" 
                   fill 
+                  sizes="128px"
                   className="object-cover grayscale hover:grayscale-0 transition-all duration-1000"
                 />
               </div>

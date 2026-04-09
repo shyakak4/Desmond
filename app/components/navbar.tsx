@@ -8,8 +8,8 @@ const cities = [
   { name: 'New York', href: '/gallery/new-york' },
   { name: 'Paris', href: '/gallery/paris' },
   { name: 'Rome', href: '/gallery/rome' },
-  { name: 'London', href: '/gallery/london' },
-  { name: 'Kyoto', href: '/gallery/kyoto' }
+  { name: 'Venice', href: '/gallery/venice' },
+  { name: 'South Highlands', href: '/gallery/south-highlands' }
 ];
 
 export default function Navbar() {

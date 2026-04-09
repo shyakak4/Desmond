@@ -40,7 +40,7 @@ export default function QuoteEngine() {
             {/* Center: Quote */}
             <div className="w-full text-center px-8 relative">
               <span className="text-3xl md:text-5xl font-serif text-neutral-300 absolute -left-2 md:-left-8 top-0">«</span>
-              <h3 className="font-serif text-3xl md:text-5xl text-neutral-950 font-bold italic leading-relaxed py-2 md:px-12 inline-block">
+              <h3 className="font-serif text-3xl md:text-5xl text-neutral-950 font-bold leading-relaxed py-2 md:px-12 inline-block">
                 {q.quote}
               </h3>
               <span className="text-3xl md:text-5xl font-serif text-neutral-300 absolute -right-0 md:-right-8 bottom-0">»</span>
